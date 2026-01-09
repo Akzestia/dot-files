@@ -7,6 +7,4 @@ sudo pacman -Sy archlinux-keyring \
   cmake \
   make \
   ninja \
-  clang-format \
-  clang-tidy \
-  rust
+  rust 
